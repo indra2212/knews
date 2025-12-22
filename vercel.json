@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "news-sniper-indra",
+  "rewrites": [
+    {
+      "source": "/api/api",
+      "destination": "/api/api.js"
+    }
+  ],
+  "cleanUrls": true
+}
